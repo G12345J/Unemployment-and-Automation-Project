@@ -1,1 +1,3 @@
 # Unemployment-and-Automation-Project
+
+This project aimed to find a correlation between unemployment rates and automation in select industries in the United States during the last ten years. By doing so, I would illustrate whether or not the increased use of automated processes in manufacturing would significantly hurt the job market. My hypothesis was that there was a direct correlation between the two (i.e. an increase in automation would lead to a increase in unemployment). As firms have begun to switch to machines to replace human capital, the input costs for producing the same goods will decrease while the aggregate supply of it will increase since it is considered a form of production efficiency. 
