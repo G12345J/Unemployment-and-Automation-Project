@@ -6,4 +6,4 @@ Beginning with the Brookings Insitute dataset, a random sample of positions from
 
 ![Automation Dataset (Brookings)](https://user-images.githubusercontent.com/95776460/210184576-3627ae98-22df-41a6-8164-e921e85c3ca3.png)
 
-One thing to note is that all but one industry listed had an average salary of less than $100,000 which could be a factor in automation being more prevalent in this specific set of positions
+One thing to note is that all but one industry listed had an average salary of less than $100,000 which could be a factor in automation being more prevalent in this specific set of positions. Additionally, the "U.S. Totals" shown at the bottom of the graph are averages for all industries including in the national GDP; not just for the positions selected.
