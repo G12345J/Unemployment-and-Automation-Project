@@ -14,5 +14,9 @@ Moving over to the dataset provided by the U.S. Department of Labor Statistics, 
 
 ![Unemployment Rates 2](https://user-images.githubusercontent.com/95776460/210268559-5841f481-2dea-4653-8a3e-8805893cb1c2.png)
 
-The gray areas shown on the chart are the time periods in which the United States was experiencing an economic recession which explains the sudden rise in unemployment rates. However, the unemployment spike between October 2018 and October 2020 is due to the coronavirus pandemic. 
+The gray areas shown on the chart are the time periods in which the United States was experiencing an economic recession which explains the sudden rise in unemployment rates. However, the unemployment spike between October 2018 and October 2020 is due to the coronavirus pandemic. Another observation that is evident is the noticeable decline in the unemployment between recessions. It may be easy to jump to conclusions and immediately claim that automation is the reason why the unemployment rate is faling, but there are more variables that must be accounted for. 
+
+![Unemployment Rates 3](https://user-images.githubusercontent.com/95776460/210424332-0d0242bf-4d46-495c-bc50-f77d2a6be50b.png)
+
+
 
